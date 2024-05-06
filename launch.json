@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch Spring Boot)",
+            "request": "launch",
+            "mainClass": "com.company.abc.management.projects.api", 
+            "projectName": "management-projects-api"
+        }
+    ]
+}
