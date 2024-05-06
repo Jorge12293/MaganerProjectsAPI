@@ -13,8 +13,8 @@ Java HotSpot(TM) 64-Bit Server VM (build 17.0.10+11-LTS-240, mixed mode, sharing
 
 Al levantar el proyecto se ejecuta los siguientes scripts para crear la base y crear data de prueba
 
-spring.datasource.schema=classpath:db/schema.sql
-spring.datasource.data=classpath:db/data.sql
+* spring.datasource.schema=classpath:db/schema.sql
+* spring.datasource.data=classpath:db/data.sql
 
 # Puerto por defecto
 server.port=9080
